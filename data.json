@@ -2202,10 +2202,20 @@
    "genre": ["Sad","Emotional"],
    "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
 },
+{
+   "id": 260,
+   "name": "Yeh Kya Hua",
+   "lyrics": "https://www.lyricsmint.com/broken-but-beautiful/yeh-kya-hua",
+   "album": "Broken But Beautiful(2018)",
+   "Duration": "2 min 23 sec",
+   "singer": ["Shreya Ghoshal", "Dev Negi"],
+   "genre": ["Romantic"],
+   "link": "https://youtu.be/IuGlzZ6bSHA"
+},
 
 
 
-]
+
 
 
    "name": "Tera Hone Laga Hoon",
